@@ -1,0 +1,24 @@
+@font-face {
+   font-family: "Helvetica";
+   src: url("fonts/Helveticau202d u202cu05e2u05d1u05d4.eot") format("embedded-opentype"), url("fonts/Helveticau202d u202cu05e2u05d1u05d4.ttf") format("truetype"), url("fonts/Helveticau202d u202cu05e2u05d1u05d4.woff") format("woff"), url("fonts/Helveticau202d u202cu05e2u05d1u05d4.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Helvetica";
+   src: url("fonts/Helvetica Bold Oblique.eot") format("embedded-opentype"), url("fonts/Helvetica Bold Oblique.ttf") format("truetype"), url("fonts/Helvetica Bold Oblique.woff") format("woff"), url("fonts/Helvetica Bold Oblique.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Helvetica";
+   src: url("fonts/Helvetica Oblique.eot") format("embedded-opentype"), url("fonts/Helvetica Oblique.ttf") format("truetype"), url("fonts/Helvetica Oblique.woff") format("woff"), url("fonts/Helvetica Oblique.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Helvetica";
+   src: url("fonts/Helvetica.eot") format("embedded-opentype"), url("fonts/Helvetica.ttf") format("truetype"), url("fonts/Helvetica.woff") format("woff"), url("fonts/Helvetica.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
